@@ -1,4 +1,4 @@
-Evernote-Tools
+Evernote Tools
 =====================
 
 Scripts I wrote in AppleScript to work with Evernote for Mac.
