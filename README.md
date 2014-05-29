@@ -1,7 +1,7 @@
 Evernote Tools
 =====================
 
-Scripts I wrote in AppleScript to work with Evernote for Mac.
+Scripts and Mac services that automate or simplify Evernote processes. 
 
 ### Web App Tools
 * [Evernote Tools](https://github.com/csu/Evernote-Tools)
